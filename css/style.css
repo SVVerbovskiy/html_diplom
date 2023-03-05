@@ -270,9 +270,7 @@ aside h2::after {
     display: flex;
     justify-content: center;
     background-color: #f4f7f6;
-    padding: 30px 0;
-    max-width: 1200px;
-
+    padding: 28px 0;
 }
 
 .social-media {
@@ -431,6 +429,7 @@ a:hover {
     height: 25px;
     background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
     display: inline-block;
 }
 
@@ -611,7 +610,6 @@ a:hover {
     outline-offset: 15px;
     margin-top: -15px;
     padding-top: 15px;
-    opacity: 0.6;
 }
 
 .our-works-container {
